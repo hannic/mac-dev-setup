@@ -790,11 +790,9 @@ This really depends on how you want to organize your files, but I like to put al
 Here is a quick list of some apps I use, and that you might find useful as well:
 
 - [Sublime](http://www.sublime.org/): Set up Sublime Text editor, install packages, create symbolic link **subl**.
-
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. I put all my documents in Dropbox. It syncs them to all my devices (laptop, mobile, tablet), and serves as a backup as well! **(Free for 2GB)**
 - [Google Drive](https://drive.google.com/): File syncing to the cloud too! I use Google Docs a lot to collaborate with others (edit a document with multiple people in real-time!), and sometimes upload other non-Google documents (pictures, etc.), so the app comes in handy for that. **(Free for 5GB)**
 - [Wuala Drive](http://www.wuala.com): Similar to Dropbox, install Wuala Drive. 
-
 - [1Password](https://agilebits.com/onepassword): Allows you to securely store your login and passwords. Even if you only use a few different passwords (they say you shouldn't!), this is really handy to keep track of all the accounts you sign up for! Also, they have a mobile app so you always have all your passwords with you (syncs with Dropbox). A little pricey though. There are free alternatives. **($50 for Mac app, $18 for iOS app)**
 - [Marked/MarkedSL](http://markedapp.com/): As a developer, most of the stuff you write ends up being in [Markdown](http://daringfireball.net/projects/markdown/). In fact, this `README.md` file (possibly the most important file of a GitHub repo) is indeed in Markdown, written in Sublime Text, and I use Marked/MarkedSL to preview the results everytime I save. **($4)**
 - [QMarked](http://www.to.find.out/): Enable preview mode for .markdown and .md files. 
@@ -808,7 +806,6 @@ Here is a quick list of some apps I use, and that you might find useful as well:
 - [Go2Shell](http://go2shell.com/): Includes an icon in Finder to directly invoke the Terminal within current location. 
 - [Img2icns](http:/github.com/gitx/gitx/): Image conversion tool to create Mac OS folder and Bar icons. 
 - [Bookfactory](http:/github.com/gitx/gitx/): My choice of app to create photo books. 
-
 - [Latex](http://www.latex-for-mac.ch): Use installer for Latex installation. Name? 
 - [BibDesk](http://www.bibdesk.com): Organize related research and bibiliography
 
