@@ -789,12 +789,30 @@ This really depends on how you want to organize your files, but I like to put al
 
 Here is a quick list of some apps I use, and that you might find useful as well:
 
+- [Sublime](http://www.sublime.org/): Set up Sublime Text editor, install packages, create symbolic link **subl**.
+
 - [Dropbox](https://www.dropbox.com/): File syncing to the cloud. I put all my documents in Dropbox. It syncs them to all my devices (laptop, mobile, tablet), and serves as a backup as well! **(Free for 2GB)**
 - [Google Drive](https://drive.google.com/): File syncing to the cloud too! I use Google Docs a lot to collaborate with others (edit a document with multiple people in real-time!), and sometimes upload other non-Google documents (pictures, etc.), so the app comes in handy for that. **(Free for 5GB)**
+- [Wuala Drive](http://www.wuala.com): Similar to Dropbox, install Wuala Drive. 
+
 - [1Password](https://agilebits.com/onepassword): Allows you to securely store your login and passwords. Even if you only use a few different passwords (they say you shouldn't!), this is really handy to keep track of all the accounts you sign up for! Also, they have a mobile app so you always have all your passwords with you (syncs with Dropbox). A little pricey though. There are free alternatives. **($50 for Mac app, $18 for iOS app)**
-- [Marked](http://markedapp.com/): As a developer, most of the stuff you write ends up being in [Markdown](http://daringfireball.net/projects/markdown/). In fact, this `README.md` file (possibly the most important file of a GitHub repo) is indeed in Markdown, written in Sublime Text, and I use Marked to preview the results everytime I save. **($4)**
+- [Marked/MarkedSL](http://markedapp.com/): As a developer, most of the stuff you write ends up being in [Markdown](http://daringfireball.net/projects/markdown/). In fact, this `README.md` file (possibly the most important file of a GitHub repo) is indeed in Markdown, written in Sublime Text, and I use Marked/MarkedSL to preview the results everytime I save. **($4)**
+- [QMarked](http://www.to.find.out/): Enable preview mode for .markdown and .md files. 
 - [Path Finder](http://cocoatech.com/pathfinder/): I love OSX, it's Unix so great for developers, and all of it just works and looks pretty! Only thing I "miss" from Windows (OMG what did he say?), is a decent file explorer. I think Finder is a pain to use. So I gladly paid for this alternative, but I understand others might find it expensive just to not have to use Finder. **($40)**
 - [Evernote](https://evernote.com/): If I don't write something down, I'll forget it. As a developer, you learn so many new things every day, and technology keeps changing, it would be insane to want to keep it all in your head. So take notes, sync them to the cloud, and have them on all your devices. To be honest, I switched to [Simplenote](http://simplenote.com/) because I only take text notes, and I got tired of Evernote putting extra spaces between paragraphs when I copy & pasted into other applications. Simplenote is so much better for text notes (and it supports Markdown!). **(Both are free)**
 - [Moom](http://manytricks.com/moom/): Don't waste time resizing and moving your windows. Moom makes this very easy. **($10)**
+- [GitX](http:/github.com/gitx/gitx/): Git tool. 
+- [Evernote](http://www.evernote.com): Note taking, keep them at one place. 
+- [SnappyApp](http:/github.com/gitx/gitx/): Easy screenshot tool, as an improvement to the other two screenshot services provided (Cmd + Shift + 2).
+- [Clean](http://clean-app.com/): Keeps Desktop organized, putting after 24 hours all files in ~/Documents/Desktop organized in folders by months. 
+- [Go2Shell](http://go2shell.com/): Includes an icon in Finder to directly invoke the Terminal within current location. 
+- [Img2icns](http:/github.com/gitx/gitx/): Image conversion tool to create Mac OS folder and Bar icons. 
+- [Bookfactory](http:/github.com/gitx/gitx/): My choice of app to create photo books. 
+
+- [Latex](http://www.latex-for-mac.ch): Use installer for Latex installation. Name? 
+- [BibDesk](http://www.bibdesk.com): Organize related research and bibiliography
+
+
+
 
 
