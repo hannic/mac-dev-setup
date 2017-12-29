@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# Get latest Homebrew
+brew update
+
+# Upgrade all already-installed formulae
+brew upgrade
+
+
