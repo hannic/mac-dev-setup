@@ -15,3 +15,11 @@ brew install wget
 brew install youtube-dl
 
 
+###############################################################################
+# ohter package dependecies                                                               #
+###############################################################################
+
+# API JSON Server
+npm install -g json-server
+
+
