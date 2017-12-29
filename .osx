@@ -38,5 +38,12 @@ defaults write com.apple.iTunes disableRadio -bool true
 # Terminal                                                                    #
 ###############################################################################
 
+####  Shortcuts
+# ctrl+z      # stop a process 
+
+
+
+
+
 
 
