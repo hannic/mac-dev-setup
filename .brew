@@ -19,7 +19,9 @@ brew install youtube-dl
 # ohter package dependecies                                                               #
 ###############################################################################
 
-# API JSON Server
+# Mocking a json API Webservice Server
 npm install -g json-server
+# start json-server with json data file 
+json-server db.json
 
 
